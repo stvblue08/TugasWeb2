@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #423b3b;
+  font-family: Arial, sans-serif;
+}
+
+.persegi {
+  background-color: #e60202;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: #423b3b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: sans-serif;
+}
+
+.btn:hover {
+  background-color:  #3B2DBF;
+}
